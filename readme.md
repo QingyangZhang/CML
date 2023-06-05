@@ -1,6 +1,6 @@
-# Multimodal Completeness-Confidence Aligning(MCCA)
+# Calibrating Multimodal Learning (CML)
 
-This repository contains the code of Multimodal Completeness-Confidence Aligning(MCCA). Here we provide a demo and detailed instructions for constructing MCCA on several dataset.
+This repository contains the code of Calibrating Multimodal Learning (CML). Here we provide a demo and detailed instructions for constructing CML on several dataset.
 
 ## Requirment
 
